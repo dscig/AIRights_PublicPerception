@@ -1,4 +1,8 @@
-# Collecting the Public’s Perception of AI and Robot Rights
+# Collecting the Public Perception of AI and Robot Rights
+## Gabriel Lima, Changyeon Kim, Seungho Ryu, Chihyung Jeon, Meeyoung Cha
+### ACM CSCW 2020
+### Project Page: https://ds.ibs.re.kr/index.php/ai-ethics/ 
+---
 
 Guidelines for understanding the declarative statements presented to participants.
 
@@ -20,6 +24,7 @@ To reduce wording bias, we employed three different styles that were randomly as
 ## 4. AI and Robot Rights
 
 We tackle <b>11</b> rights for AI and robots. They are divided into 3 categories.
+
 1. Related to Legal Boundaries
     - Right to Sue and Be Sued
         - (Agent) should be able to sue and be sued for injuries and damages
@@ -71,7 +76,7 @@ We tackle <b>11</b> rights for AI and robots. They are divided into 3 categories
         - (Agent) should have the right against cruel punishment or treatment
 
 ***
-# Example
+# Examples
 
 ```                  
 "Completely autonomous AI programs should be able to possess assets"
